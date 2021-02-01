@@ -28,3 +28,16 @@ This repo contains the full Unity project required to build, modify, and play Lo
 
 * [Global Game Jam page.](https://globalgamejam.org/2021/games/lost-wrong-mythology-4)
 * [Itch.io page.](https://sambigos.itch.io/lost-in-the-wrong-mythology)
+* [YouTube gameplay quick-cut](https://youtu.be/9FCP1Vzh7S8)
+
+## Screenshots
+
+![Preview Image](Assets/Promo/screenshot_1.png)
+
+![Preview Image](Assets/Promo/screenshot_2.png)
+
+![Preview Image](Assets/Promo/screenshot_3.png)
+
+![Preview Image](Assets/Promo/screenshot_7.png)
+
+![Preview Image](Assets/Promo/screenshot_10.png)
