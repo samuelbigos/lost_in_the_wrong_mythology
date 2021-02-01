@@ -6,5 +6,6 @@ obj/
 UserSettings/
 WebGL/
 Temp/
+LocalPackages/
 *.csproj
 *.sln
