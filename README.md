@@ -16,9 +16,9 @@ Lost In The Wrong Mythology was made for Global Game Jam 2021, as part of the Br
 
 ## Team
 
-Sam Bigos - Code - [Twitter](https://twitter.com/Calneon)
-Floyd Billingy - Art - [ArtStation](https://www.artstation.com/floydleroi)
-Matt Verkuijlen - Tech Art - [Twitter](https://twitter.com/MattVerkuijlen)
+* Sam Bigos - Code - [Twitter](https://twitter.com/Calneon)
+* Floyd Billingy - Art - [ArtStation](https://www.artstation.com/floydleroi)
+* Matt Verkuijlen - Tech Art - [Twitter](https://twitter.com/MattVerkuijlen)
 
 ## Project source
 
